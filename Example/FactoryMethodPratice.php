@@ -6,5 +6,4 @@ class FactoryMethoodPratice
     public function __construct(){
         
     }
-    public function
 }
