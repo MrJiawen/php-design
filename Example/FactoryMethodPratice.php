@@ -1,5 +1,5 @@
 <?php
-namespace cjwPhpDesign\example;
+namespace CjwPhpDesign\Example;
 
 class FactoryMethoodPratice
 {
