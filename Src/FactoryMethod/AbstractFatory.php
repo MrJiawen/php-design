@@ -1,5 +1,5 @@
 <?php
-namespace cjwPhpDesign\src\factoryMethood;
+namespace CjwPhpDesign\Src\FactoryMethood;
 
 interface AbstratFatory
 {
