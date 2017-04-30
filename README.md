@@ -15,7 +15,7 @@ composer require xdh-wen/php-design:dev-master
 ### 1.1 创建型
 >`创建型设计模式`用于处理对象的实例化, 其构建对象以便能从实现系统解耦。
 
-1. [工厂方法模式factory_method](./Markdown/factory_method（工厂方式模式）.md)
+1. 工厂方法模式factory_method
 2. 抽象工厂模式abstract_factory
 3. 单例模式singleton
 4. 建造者模式builder
@@ -66,4 +66,4 @@ composer require xdh-wen/php-design:dev-master
 5. 迪米特法则（最少知道原则）（Demeter Principle）
 	*  让一个实体尽量少的与另外一个实体进行关联，以保证其模块的相对对立。
 6. 合成复用原则（Composite Reuse Principle）
-   * 尽量使用合成/聚合的方式，而不是使用继承。
+  * 尽量使用合成/聚合的方式，而不是使用继承。
