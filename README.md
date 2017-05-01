@@ -16,7 +16,7 @@ composer require xdh-wen/php-design:dev-master
 >`创建型设计模式`用于处理对象的实例化, 其构建对象以便能从实现系统解耦。
 
 1. [工厂方法模式factory_method](./Markdown/factory_method（工厂方式模式）.md)
-2. 抽象工厂模式abstract_factory
+2. [抽象工厂模式abstract_factory](./Markdown/abstract_factory(抽象工厂模式).md)
 3. 单例模式singleton
 4. 建造者模式builder
 5. 原型模式prototype
