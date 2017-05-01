@@ -17,7 +17,7 @@ composer require xdh-wen/php-design:dev-master
 
 1. [工厂方法模式factory_method](./Markdown/factory_method（工厂方式模式）.md)
 2. [抽象工厂模式abstract_factory](./Markdown/abstract_factory(抽象工厂模式).md)
-3. 单例模式singleton
+3. [单例模式singleton](./Markdown/singleton(单例模式).md)
 4. 建造者模式builder
 5. 原型模式prototype
 
