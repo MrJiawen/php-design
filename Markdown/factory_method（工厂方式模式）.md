@@ -12,7 +12,7 @@
 ```
 new FactoryMethodPratice()
 ```
-### 2.demo中具体的使用方式如下所示：
+### 2.demo中具体的实现方式如下所示：
 ```
 class FactoryMethodPratice
 {
@@ -40,7 +40,7 @@ class FactoryMethodPratice
 
 ## 第三部分 原理介绍
 
-### 1. 首先，创建一类产品，然后创建其具体的实例产品；
+### 1. 首先，创建一类产品，然后创建其具体的实例商品；
 ```
 //创建轮子这类产品
 Abstract class WheelGenerator
