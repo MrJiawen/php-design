@@ -25,7 +25,7 @@ composer require xdh-wen/php-design:dev-master
 > `结构型设计模式`用于处理类和对象的组合,让不同的对象组成大规模的对象结构。
 
 1. [适配器模式adapter](./Markdown/adapter(适配器模式).md)
-2. 装饰器模式decorator
+2. [装饰器模式decorator](./Markdown/decorator(装饰器模式).md)
 3. 代理模式proxy
 4. 门面模式facade
 5. 桥接模式bridge
@@ -67,3 +67,9 @@ composer require xdh-wen/php-design:dev-master
 	*  让一个实体尽量少的与另外一个实体进行关联，以保证其模块的相对对立。
 6. 合成复用原则（Composite Reuse Principle）
    * 尽量使用合成/聚合的方式，而不是使用继承。
+   
+   
+----
+参考文章为：
+1. [github](https://github.com/yunkaiyueming/php_design_patterns),[web文字](http://www.cnblogs.com/yuqiandoudou/p/4646435.html
+)
