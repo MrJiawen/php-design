@@ -9,11 +9,11 @@
 > 直接在控制器中实例化下对象即可；
 
 ```
-new SingletonPratice();
+new SingletonPractice();
 ```
 ### 2.demo中具体的实现方式如下所示：
 ```
-class SingletonPratice
+class SingletonPractice
 {
     public function __construct()
     {

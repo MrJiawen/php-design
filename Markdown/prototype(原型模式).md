@@ -11,11 +11,11 @@
 > 直接在控制器中实例化下对象即可；
 
 ```
- new PrototypePratice();
+ new PrototypePractice();
 ```
 ### 2.demo中具体的实现方式如下所示：
 ```
-class PrototypePratice{
+class PrototypePractice{
     public function __construct(){
         //创建原型
         $obj1 = new ConcretePrototype('my name is prototype;');

@@ -13,11 +13,11 @@
 >直接在控制器中实例化下对象即可；
 
 ```
-new AbstractFactoryPratice();
+new AbstractFactoryPractice();
 ```
 ### 2.demo中具体的实现方式如下所示：
 ```
-class AbstractFactoryPratice{
+class AbstractFactoryPractice{
     public function __construct(){
         echo '第一类别：生产一套大型号的商品<br>';
 

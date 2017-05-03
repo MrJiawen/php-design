@@ -12,11 +12,11 @@
 > 直接在控制器中实例化下对象即可；
 
 ```
-new BuilderPratice();
+new BuilderPractice();
 ```
 ### 2.demo中具体的实现方式如下所示：
 ```
-class BuilderPratice{
+class BuilderPractice{
     public function __construct(){
         echo "使用建造者的模式<br>";
         echo "第一步，首先召集创建者<br>";

@@ -10,11 +10,11 @@
 > 直接在控制器中实例化下对象即可；
 
 ```
-new FactoryMethodPratice()
+new FactoryMethodPractice()
 ```
 ### 2.demo中具体的实现方式如下所示：
 ```
-class FactoryMethodPratice
+class FactoryMethodPractice
 {
     public function __construct()
     {

@@ -5,7 +5,7 @@ namespace CjwPhpDesign\example;
 use CjwPhpDesign\Src\AbstractFactory\BigFactory;
 use CjwPhpDesign\Src\AbstractFactory\SmallFactory;
 
-class AbstractFactoryPratice
+class AbstractFactoryPractice
 {
     public function __construct()
     {

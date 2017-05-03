@@ -4,7 +4,7 @@ namespace CjwPhpDesign\example;
 
 use CjwPhpDesign\Src\FactoryMethod\MyWheelFactory;
 
-class FactoryMethodPratice
+class FactoryMethodPractice
 {
     public function __construct()
     {

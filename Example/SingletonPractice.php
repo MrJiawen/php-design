@@ -4,7 +4,7 @@ namespace CjwPhpDesign\example;
 
 use CjwPhpDesign\Src\Singleton\MysqlSingleton;
 
-class SingletonPratice
+class SingletonPractice
 {
     public function __construct()
     {

@@ -5,7 +5,7 @@ namespace CjwPhpDesign\example;
 use CjwPhpDesign\Src\Builder\ConcreteBuilder;
 use CjwPhpDesign\Src\Builder\Director;
 
-class BuilderPratice
+class BuilderPractice
 {
     public function __construct()
     {

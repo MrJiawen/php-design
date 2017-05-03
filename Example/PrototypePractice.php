@@ -4,7 +4,7 @@ namespace CjwPhpDesign\example;
 
 use CjwPhpDesign\Src\Prototype\ConcretePrototype;
 
-class PrototypePratice
+class PrototypePractice
 {
     public function __construct()
     {
