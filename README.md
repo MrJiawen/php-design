@@ -19,7 +19,7 @@ composer require xdh-wen/php-design:dev-master
 2. [抽象工厂模式abstract_factory](./Markdown/abstract_factory(抽象工厂模式).md)
 3. [单例模式singleton](./Markdown/singleton(单例模式).md)
 4. [建造者模式builder](./Markdown/builder(建造者模式).md)
-5. 原型模式prototype
+5. [原型模式prototype](./Markdown/prototype(原型模式).md)
 
 ### 1.2 结构型
 > `结构型设计模式`用于处理类和对象的组合,让不同的对象组成大规模的对象结构。
