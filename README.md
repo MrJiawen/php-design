@@ -3,7 +3,7 @@
 
 ## 下载命令
 ```
-composer require xdh-wen/php-design:dev-master
+composer require mr-jiawen/php-design:dev-master
 ```
 ## 第一部分 23种设计模式分类
 > 设计模式分为：创建型模式， 结构型模式，行为型模式等23种设计模式。
