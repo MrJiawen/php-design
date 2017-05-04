@@ -28,7 +28,7 @@ composer require xdh-wen/php-design:dev-master
 2. [装饰器模式decorator](./Markdown/decorator(装饰器模式).md)
 3. [代理模式proxy](./Markdown/proxy(代理模式).md)
 4. [门面模式facade](./Markdown/facade(门面模式).md)
-5. 桥接模式bridge
+5. [桥接模式bridge](./Markdown/bridge(桥接模式).md)
 6. 合成模式composite(组合模式)
 7. 享元模式flyweight
 
