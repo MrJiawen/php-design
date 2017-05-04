@@ -26,7 +26,7 @@ composer require xdh-wen/php-design:dev-master
 
 1. [适配器模式adapter](./Markdown/adapter(适配器模式).md)
 2. [装饰器模式decorator](./Markdown/decorator(装饰器模式).md)
-3. 代理模式proxy
+3. [代理模式proxy](./Markdown/proxy(代理模式).md)
 4. 门面模式facade
 5. 桥接模式bridge
 6. 合成模式composite(组合模式)
