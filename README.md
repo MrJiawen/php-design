@@ -29,7 +29,7 @@ composer require mr-jiawen/php-design:dev-master
 3. [代理模式proxy](./Markdown/proxy(代理模式).md)
 4. [门面模式facade](./Markdown/facade(门面模式).md)
 5. [桥接模式bridge](./Markdown/bridge(桥接模式).md)
-6. 合成模式composite(组合模式)
+6. [合成模式composite(组合模式)](./Markdown/composite(合成模式).md)
 7. 享元模式flyweight
 
 ### 1.3行为型
