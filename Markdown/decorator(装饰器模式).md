@@ -65,3 +65,15 @@ class ConcreteDecoratorA extends DecoratorGeneral{
 }
 ```
 ### 4. 后置装饰；
+```
+// 具体的装饰类
+class ConcreteDecoratorB extends DecoratorGeneral{
+    public function operation(){
+        parent::operation(); 
+        $this->addOperation();
+    }
+    public function addOperation(){
+        echo "在装饰器后面进行修饰<br>";
+    }
+}
+```
