@@ -30,7 +30,7 @@ composer require mr-jiawen/php-design:dev-master
 4. [门面模式facade](./Markdown/facade(门面模式).md)
 5. [桥接模式bridge](./Markdown/bridge(桥接模式).md)
 6. [合成模式composite(组合模式)](./Markdown/composite(合成模式).md)
-7. 享元模式flyweight
+7. [享元模式flyweight](./Markdown/flyweight(享元模式).md)
 
 ### 1.3行为型
 > `行为型设计模式`用于处理类的对象间通信，在对象中管理算法，关系，和责任。
