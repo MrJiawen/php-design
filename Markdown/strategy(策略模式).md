@@ -34,5 +34,43 @@ class StrategyPractice{
 ```
 ## 第三部分 原理介绍
 ### 1. 首先创建出策略的标准接口；
+```
+// 抽象策略角色，以接口实现
+interface Strategy{
+    public function doMethod();     //算法接口
+}
+```
 ### 2. 实现每种具体的策略方案；
+```
+// 具体策略角色A
+class ConcreteStrategyA implements Strategy{
+    public function doMethod(){
+        echo "执行策略方案A<br>";
+    }
+}
+// 具体策略角色B
+class ConcreteStrategyB implements Strategy{
+    public function doMethod(){
+        echo "执行策略方案B<br>";
+    }
+}
+// 具体策略角色C
+class ConcreteStrategyC implements Strategy{
+    public function doMethod(){
+        echo "执行策略方案C<br>";
+    }
+}
+```
 ### 3. 描述实际运用环境；
+```
+// 环境角色
+class Question{
+    private $_strategy;
+    public function __construct(Strategy $strategy){
+        $this->_strategy = $strategy;
+    }
+    public function handle_question(){
+        $this->_strategy->doMethod();
+    }
+}
+```
