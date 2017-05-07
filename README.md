@@ -35,7 +35,7 @@ composer require mr-jiawen/php-design:dev-master
 ### 1.3行为型
 > `行为型设计模式`用于处理类的对象间通信，在对象中管理算法，关系，和责任。
 
-1. 策略模式strategy
+1. [策略模式strategy](./Markdown/strategy(策略模式).md)
 2. 模板方法模式template_method
 3. 观察者模式observer
 4. 迭代器模式decorator
