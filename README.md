@@ -38,7 +38,7 @@ composer require mr-jiawen/php-design:dev-master
 1. [策略模式strategy](./Markdown/strategy(策略模式).md)
 2. [模板方法模式template_method](./Markdown/templateMethod(模板方法模式).md)
 3. [观察者模式observer](./Markdown/observer(观察者模式).md)
-4. 迭代器模式decorator
+4. [迭代器模式iteration](./Markdown/iteration(迭代器模式).md)
 5. 责任链模式responsibility_chain
 6. 命令模式command
 7. 备忘录模式memento
