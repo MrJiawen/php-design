@@ -42,7 +42,7 @@ composer require mr-jiawen/php-design:dev-master
 5. [责任链模式responsibility_chain](./Markdown/ResponsibilityChainPratice(责任链模式).md)
 6. [命令模式command](./Markdown/command(命令模式).md)
 7. [备忘录模式memento](./Markdown/memento(备忘录模式).md)
-8. 状态模式state
+8. [状态模式state](./Markdown/state(状态模式).md)
 9. 访问者模式visitor
 10. 中介者模式mediator
 11. 解释器模式interpreter
