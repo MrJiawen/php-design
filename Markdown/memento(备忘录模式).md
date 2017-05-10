@@ -96,5 +96,4 @@ class Caretaker{
         $this->_memento = $memento;
     }
 }
-
 ```
