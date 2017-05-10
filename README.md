@@ -39,7 +39,7 @@ composer require mr-jiawen/php-design:dev-master
 2. [模板方法模式template_method](./Markdown/templateMethod(模板方法模式).md)
 3. [观察者模式observer](./Markdown/observer(观察者模式).md)
 4. [迭代器模式iteration](./Markdown/iteration(迭代器模式).md)
-5. 责任链模式responsibility_chain
+5. [责任链模式responsibility_chain](./Markdown/ResponsibilityChainPratice(责任链模式).md)
 6. 命令模式command
 7. 备忘录模式memento
 8. 状态模式state
