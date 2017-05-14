@@ -44,7 +44,7 @@ composer require mr-jiawen/php-design:dev-master
 7. [备忘录模式memento](./Markdown/memento(备忘录模式).md)
 8. [状态模式state](./Markdown/state(状态模式).md)
 9. [访问者模式visitor](./Markdown/visitor(访问者模式).md)
-10. 中介者模式mediator
+10. [中介者模式mediator](./Markdown/mediator(中介者模式).md)
 11. 解释器模式interpreter
 
 ## 第二部分 设计的六大原则
