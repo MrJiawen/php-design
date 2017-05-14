@@ -45,7 +45,7 @@ composer require mr-jiawen/php-design:dev-master
 8. [状态模式state](./Markdown/state(状态模式).md)
 9. [访问者模式visitor](./Markdown/visitor(访问者模式).md)
 10. [中介者模式mediator](./Markdown/mediator(中介者模式).md)
-11. 解释器模式interpreter
+11. [解释器模式interpreter](./Markdown/interpreter(解释器模式).md)
 
 ## 第二部分 设计的六大原则
 > **开闭原则、里氏代换原则、依赖倒转原则、接口隔离原则、迪米特法则（最少知道原则）、合成复用原则**
